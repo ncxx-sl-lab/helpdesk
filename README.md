@@ -4,7 +4,7 @@
 なお、issue への登録は下記の**[質問の登録](https://github.com/ncxx-sl-lab/helpdesk/issues/new?title=質問のタイトル&body=%23%23%20質問の内容%0A%0A%23%23%20何が問題なのか%0A%0A%23%23%20解決方法（質問者への対応が完了した時に記載）%0A%0A%23%23%20お願い：issueの作成者は Labels と Assignee への登録を忘れないように！)**のボタンをクリックしてから行ってください。
 ボタンをクリックすると、質問のひな形作成された状態で issue の登録ページへ画面遷移します。
 
-- **[質問の登録](https://github.com/ncxx-sl-lab/helpdesk/issues/new?title=質問のタイトル&body=%23%23%20質問の内容%0A%0A%23%23%20何が問題なのか%0A%0A%23%23%20解決方法（質問者への対応が完了した時に記載）%0A%0A%**お願い：issueの作成者は Labels と Assignee への登録を忘れないように！**)**
+- **[質問の登録](https://github.com/ncxx-sl-lab/helpdesk/issues/new?title=質問のタイトル&body=%23%23%20質問の内容%0A%0A%23%23%20何が問題なのか%0A%0A%23%23%20解決方法（質問者への対応が完了した時に記載）%0A%0A%%2a%2aお願い：issueの作成者は Labels と Assignee への登録を忘れないように!！%2a%2a)**
 
 
 ## ◆ ヘルプデスク対応に必要なツールの紹介
