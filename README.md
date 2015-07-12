@@ -51,7 +51,7 @@
 - 各週によって回答者は変更されるし、issue のソートをしやすくするために登録が必要です
 
 #### 質疑応答の進捗状況は[ZenHub](https://www.zenhub.io/)で確認
-- 進捗状況は [ZenHub](https://www.zenhub.io/)で機能追加でした issue の Pipleine で管理します
+- 進捗状況は [ZenHub](https://www.zenhub.io/)で機能追加した issue の Pipleine で管理します
 - Piplineのは以下の5つに分類します
 - **受付**：質問を issue に登録して、適切な Label（下記の後述）も登録した状態
 - **対応中**：作成した issue の Assignee に回答の担当者を登録した状態
