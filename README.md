@@ -17,7 +17,9 @@
 - 各週によって回答者は変更されるし、issue のソートをしやすくするために登録が必要
 - 回答者は issue の Assignee を利用して登録すること
 
-#### 質疑応答の進捗状況はZenHubで確認
+#### 質疑応答の進捗状況は[ZenHub](https://www.zenhub.io/)で確認
+- 回答担当者の方は[ZenHub](https://www.zenhub.io/)をインストールしてください。
+- [ZenHub](https://www.zenhub.io/)は Google Chromeの拡張機能で GitHub の issue をカンバン方式に機能拡張できるツールです
 - **受付**：質問を issue に登録して、適切な Label（下記の後述）も登録した状態
 - **対応中**：作成した issue の Assignee に回答の担当者を登録した状態
 - **応答中**：担当者が回答をまとめて社員（質問者）に連絡して返答待ちの状態
