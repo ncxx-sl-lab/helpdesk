@@ -65,7 +65,8 @@
 - 現状では、スマホ端末／PC環境／開発言語／その他、の4種類の Label で対応可能
 
 #### issue の書き方
-- issueのひな形は下記の画像を参照  
+- issueのひな形は下記の画像を参照のこと
+- なお、下記の画像は上記の**[質問の登録](https://github.com/ncxx-sl-lab/helpdesk/issues/new?title=質問のタイトル&body=%23%23%20質問の内容%0A%0A%23%23%20何が問題なのか%0A%0A%23%23%20解決方法（質問者への対応が完了した時に記載）%0A%0A%23%23%20今後の対応%0A%0A%2a%2a★ お願い：issueの作成者は Labels と Assignee の登録を忘れないように!！%2a%2a)**をクリックした先のissueの新規作成画面です
 ![画像](http://keepingblog.net/github_images/helpdesk/issue_fmt.png)
 - **質問の内容**には、質問者のメール文面を要約して記述すること
 - **何が問題なのか**には、問題の原因を分かり易く記述すること
