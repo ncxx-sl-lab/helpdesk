@@ -7,6 +7,23 @@
 **[質問の登録]()**
 
 ## ◆ ヘルプデスク対応に必要なツールの紹介
+
+#### まだGitHubのアカウントを作成していない方は、作成してから読んで下さい
+
+#### issue
+- issue とは GitHubの機能の一つで、各リポジトリのタスク管理やバグ管理に使用できる機能です
+- issueには一意の番号が作成時に１番から順に自動的に振られていきます
+- issueの状態は対応中の open と 対応済みの closed の二種類のみです
+- issueは一意の番号で管理されるため、削除することは不可能です
+- 不要なissueはclosedにして、管理すること
+
+#### Assignee
+ - Assignee とは issue の機能の一つで、issue の担当者を登録できる機能です
+ - ncxx-sl-lab/helpdesk の Collaborators に登録済み方が Assignee の対象者です 
+ - Collaborators とは ncxx-sl-lab/helpdesk の協同管理者のことです
+ - Collaborators の登録は このリポジトリの作成者が可能です
+ - 回答担当者は事前に登録しておきましたのでご確認よろしくお願いします
+
 #### [ZenHub](https://www.zenhub.io/)
 - まず回答担当者の方は[ZenHub](https://www.zenhub.io/)をインストールしてください。
 - [ZenHub](https://www.zenhub.io/)は Google Chrome の拡張機能で GitHub の issue をカンバン方式に機能拡張できるツールです
