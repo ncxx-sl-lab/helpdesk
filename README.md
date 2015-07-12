@@ -17,7 +17,7 @@
 - issue の状態は対応中の open と 対応済みの closed の二種類のみです
 - issue は一意の番号で管理されるため、削除することは不可能です
 - 不要な issue は closed にして管理すること
-- issueのひな形については下記のQiita記事を参照 
+- issue のひな形については下記のQiita記事を参照 
  - http://qiita.com/yoshimikeisui/items/3e1873e3bf1bbafe8733
 
 
@@ -34,7 +34,7 @@
 - また[ZenHub](https://www.zenhub.io/)をインストールするとissueに画像などの貼り付けが簡単に出来るようになります
 - [ZenHub](https://www.zenhub.io/)を利用すれば、質疑応答の進捗状況が簡単かつわかりやすく表示できます
 - 質疑応答の進捗状況については下記のヘルプデスク対応マニュアルに記載してあります
-- ZenHubの詳しい情報は下記のQiita記事を参照
+- [ZenHub](https://www.zenhub.io/)の詳しい情報は下記のQiita記事を参照
  - http://qiita.com/GeckoTang/items/f75b9a1c20c8e5091147 
 
 ## ◆ ヘルプデスク対応マニュアル
