@@ -34,7 +34,7 @@
 - まず回答担当者の方は[ZenHub](https://www.zenhub.io/)をインストールしてください。
 - [ZenHub](https://www.zenhub.io/)は Google Chrome の拡張機能で GitHub の issue をカンバン方式に機能拡張します
 - また[ZenHub](https://www.zenhub.io/)をインストールするとissueに画像などの貼り付けが簡単に出来るようになります
-- [ZenHub](https://www.zenhub.io/)を利用すれば、質疑応答の進捗状況が簡単かつわかりやすく表示できます
+- [ZenHub](https://www.zenhub.io/)を利用すれば、質疑応答の進捗状況が簡単にわかりやすく表示できます
 - 質疑応答の進捗状況については下記のヘルプデスク対応マニュアルに記載してあります
 - [ZenHub](https://www.zenhub.io/)の詳しい情報は下記のQiita記事を参照
  - http://qiita.com/GeckoTang/items/f75b9a1c20c8e5091147 
