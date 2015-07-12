@@ -19,6 +19,8 @@
 - 不要な issue は closed にして管理すること
 - issue のひな形については下記のQiita記事を参照 
  - http://qiita.com/yoshimikeisui/items/3e1873e3bf1bbafe8733
+- またissueはmarkdown記法でレイアウトを統一しますので、markdown記法については下記を参照
+ - [**markdown記法とは？**](https://github.com/ncxx-sl-lab/members/wiki/.md%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9) 
 
 
 #### Assignee
