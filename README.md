@@ -31,7 +31,7 @@
  - **回答担当者は事前に登録しておきましたのでご確認よろしくお願いします**
 
 #### [ZenHub](https://www.zenhub.io/)
-- まず回答担当者の方は[ZenHub](https://www.zenhub.io/)をインストールしてください。
+- まず回答担当者の方は[ZenHub](https://www.zenhub.io/)をインストールしてください
 - [ZenHub](https://www.zenhub.io/)は Google Chrome の拡張機能で GitHub の issue をカンバン方式に機能拡張します
 - また[ZenHub](https://www.zenhub.io/)をインストールするとissueに画像などの貼り付けが簡単に出来るようになります
 - [ZenHub](https://www.zenhub.io/)を利用すれば、質疑応答の進捗状況が簡単にわかりやすく表示できます
@@ -47,8 +47,8 @@
 - 誰からの質問かは記載不要
 
 #### 回答担当者は Assignee を利用して登録
-- 各週によって回答者は変更されるし、issue のソートをしやすくするために登録が必要
 - 回答者は issue の Assignee を利用して登録すること
+- 各週によって回答者は変更されるし、issue のソートをしやすくするために登録が必要です
 
 #### 質疑応答の進捗状況は[ZenHub](https://www.zenhub.io/)で確認
 - 進捗状況は [ZenHub](https://www.zenhub.io/)　で機能追加でした issue の Pipleine で管理します
