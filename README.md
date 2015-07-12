@@ -25,10 +25,10 @@
 
 #### Assignee
  - Assignee とは issue の機能の一つで、issue の担当者を登録できる機能です
- - ncxx-sl-lab/helpdesk の Collaborators に登録済み方が Assignee の対象者です 
+ - ncxx-sl-lab/helpdesk の Collaborators に登録済みのアカウントが Assignee の対象者です 
  - Collaborators とは ncxx-sl-lab/helpdesk の協同管理者のことです
  - Collaborators の登録は このリポジトリの作成者が可能です
- - 回答担当者は事前に登録しておきましたのでご確認よろしくお願いします
+ - **回答担当者は事前に登録しておきましたのでご確認よろしくお願いします**
 
 #### [ZenHub](https://www.zenhub.io/)
 - まず回答担当者の方は[ZenHub](https://www.zenhub.io/)をインストールしてください。
