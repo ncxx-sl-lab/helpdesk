@@ -4,7 +4,8 @@
 なお、issue への登録は下記の**[質問の登録]()**のボタンをクリックしてから行ってください。
 ボタンをクリックすると、質問のひな形作成された状態で issue の登録ページへ画面遷移します。
 
-**[質問の登録]()**
+- **[質問の登録]()**
+
 
 ## ◆ ヘルプデスク対応に必要なツールの紹介
 
@@ -15,7 +16,10 @@
 - issue には一意の番号が作成時に１番から順に自動的に振られていきます
 - issue の状態は対応中の open と 対応済みの closed の二種類のみです
 - issue は一意の番号で管理されるため、削除することは不可能です
-- 不要な issue は closed にして、管理すること
+- 不要な issue は closed にして管理すること
+- issueのひな形については下記のQiita記事を参照 
+ - http://qiita.com/yoshimikeisui/items/3e1873e3bf1bbafe8733
+
 
 #### Assignee
  - Assignee とは issue の機能の一つで、issue の担当者を登録できる機能です
@@ -27,7 +31,10 @@
 #### [ZenHub](https://www.zenhub.io/)
 - まず回答担当者の方は[ZenHub](https://www.zenhub.io/)をインストールしてください。
 - [ZenHub](https://www.zenhub.io/)は Google Chrome の拡張機能で GitHub の issue をカンバン方式に機能拡張できるツールです
-
+- [ZenHub](https://www.zenhub.io/)を利用すれば、質疑応答の進捗状況が簡単かつわかりやすく表示できます
+- 質疑応答の進捗状況については下記のヘルプデスク対応マニュアルに記載してあります
+- ZenHubの詳しい情報は下記のQiita記事を参照
+ - http://qiita.com/GeckoTang/items/f75b9a1c20c8e5091147 
 
 ## ◆ ヘルプデスク対応マニュアル
 #### issue で質疑応答を管理
