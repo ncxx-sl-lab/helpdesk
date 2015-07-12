@@ -74,4 +74,4 @@
 - **解決方法**には、問題の原因や解決方法について記述すること
 - **今後の対応**には、解決できなかった問題への対応策を記述すること
 - よくわからない方は作成済みの issue を参考にして下さい。
- - 例えば #1 が参考になるはず 
+https://github.com/ncxx-sl-lab/helpdesk/issues?q=is%3Aissue+is%3Aclosed
